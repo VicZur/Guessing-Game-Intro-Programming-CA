@@ -1,0 +1,7 @@
+C:\Users\vczur\Documents\DBS\Programming\CA (GH)\Guessing-Game\Guessing-Game\bin\Debug\Guessing-Game.exe.config
+C:\Users\vczur\Documents\DBS\Programming\CA (GH)\Guessing-Game\Guessing-Game\bin\Debug\Guessing-Game.exe
+C:\Users\vczur\Documents\DBS\Programming\CA (GH)\Guessing-Game\Guessing-Game\bin\Debug\Guessing-Game.pdb
+C:\Users\vczur\Documents\DBS\Programming\CA (GH)\Guessing-Game\Guessing-Game\obj\Debug\Guessing-Game.csprojAssemblyReference.cache
+C:\Users\vczur\Documents\DBS\Programming\CA (GH)\Guessing-Game\Guessing-Game\obj\Debug\Guessing-Game.csproj.CoreCompileInputs.cache
+C:\Users\vczur\Documents\DBS\Programming\CA (GH)\Guessing-Game\Guessing-Game\obj\Debug\Guessing-Game.exe
+C:\Users\vczur\Documents\DBS\Programming\CA (GH)\Guessing-Game\Guessing-Game\obj\Debug\Guessing-Game.pdb
